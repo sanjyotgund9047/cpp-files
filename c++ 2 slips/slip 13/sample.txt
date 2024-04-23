@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains multiple lines.
+Each line has words separated by spaces.
+We will use this file to test the program.

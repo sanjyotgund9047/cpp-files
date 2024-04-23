@@ -1,0 +1,2 @@
+This is a sample input file.
+It contains some text that we want to copy to another file.
